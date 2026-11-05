@@ -1,0 +1,9 @@
+{
+  "name": "Entre Dos",
+  "short_name": "Entre Dos",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#07060B",
+  "background_color": "#07060B",
+  "icons": [{ "src": "icon.png", "sizes": "1024x1024", "type": "image/png" }]
+}
